@@ -4,5 +4,10 @@
   "description": "Boilerplate for react projects",
   "repository": "https://github.com/milestester/react-boilerplate.git",
   "author": "Miles Tester <milesdeant@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "styled-components": "^3.3.3"
+  }
 }
