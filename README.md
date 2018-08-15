@@ -11,7 +11,7 @@ A boilerplate to start a react project without configuration each time.
 - `yarn test` to run tests
 - `yarn flow` to check for flow errors
 
-#### What's part of this boilerplate?
+#### What's Included in this Boilerplate?
 
 1. React
 2. Flow
