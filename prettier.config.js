@@ -1,3 +1,5 @@
+// @flow
+
 module.exports = {
   parser: 'flow',
   printWidth: 100,

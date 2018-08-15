@@ -1,3 +1,5 @@
+// @flow
+
 const baseRules = {
   'no-plusplus': 'off',
   'default-case': 'off',
@@ -17,6 +19,7 @@ const baseRules = {
   'object-curly-newline': 'off',
   'function-paren-newline': 'off',
   'import/prefer-default-export': 'off',
+  'import/no-extraneous-dependencies': 'off',
 };
 
 const reactRules = {
